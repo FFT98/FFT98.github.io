@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-	</head>
 	<body>
 		<h1 style="color: darkturquoise;">计算机网络基础</h1>
 		<ol>
