@@ -1,13 +1,1 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title></title>
-	</head>
-	<body>
-		<h1>About Vue</h1>
-		<ol>
-			<li><h3>methods和computed的性能</h3></li>
-		</ol>
-	</body>
-</html>
+###1111
